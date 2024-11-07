@@ -11,12 +11,12 @@ export const FeedbackProvider = ({ children }) => {
       rating: 10,
     },
     {
-      id: 1,
+      id: 2,
       text: "This is feedback item 2",
       rating: 9,
     },
     {
-      id: 1,
+      id: 3,
       text: "This is feedback item 3",
       rating: 8,
     },
